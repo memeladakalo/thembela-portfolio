@@ -1,0 +1,1 @@
+Place your real CV PDF in this folder and name it cv.pdf. The View CV button links to assets/cv.pdf.
