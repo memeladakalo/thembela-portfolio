@@ -1,0 +1,2 @@
+Save your CV as cv.pdf in this folder (assets/cv.pdf).
+The "View CV" button on the home page links to it.
